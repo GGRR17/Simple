@@ -4,7 +4,7 @@ Or is it??
 
 First line here.
 
-Second line here.
+Second line here, from the main.
 
 This is a second example for stash.
 
