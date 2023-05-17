@@ -4,9 +4,9 @@ Or is it??
 
 First line here.
 
-Second line here, from the main.
+Second line here, special for conflict.
 
-This is a second example for stash.
+This is a second example for stagit sh.
 
 or at least it's continues and continuegit git
 
